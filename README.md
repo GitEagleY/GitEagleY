@@ -10,6 +10,7 @@
 2. [Microservices in GO](https://github.com/GitEagleY/Go-Services-Showcase): Showcase of different microservices that communicate with eachother using different protocols.
 3. [Grpc Blog](https://github.com/GitEagleY/Grpc-Blog): Simple app that uses gRPC for accesing blog api.
 4. [Web Chat](https://github.com/GitEagleY/WebSockets-Chat): App that uses websokets to deliver messages.
+5. [RESTful Task Manager](https://github.com/GitEagleY/RESTful-Go): Web server for managing tasks that implements RESTful API.
 
 ### More Projects
 
