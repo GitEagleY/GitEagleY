@@ -1,19 +1,55 @@
-# Welcome to GitEagleY's GitHub Profile
-## Projects
+# Greetings!
 
-### Featured
+Congratulations! You’ve just stumbled upon the digital equivalent of a mystery novel written by a goldfish — short on plot and heavy on splashes, mildly chaotic, and occasionally containing something surprisingly valuable. 
 
-1. [Golang Web App](https://github.com/GitEagleY/BookingsWebApp): Modern web application written in Go for Booking Rooms.
-2. [Microservices in GO](https://github.com/GitEagleY/Go-Services-Showcase): Showcase of different microservices that communicate with eachother using different protocols.
-3. [Grpc Blog](https://github.com/GitEagleY/Grpc-Blog): Simple app that uses gRPC for accesing blog api.
-4. [Web Chat](https://github.com/GitEagleY/WebSockets-Chat): App that uses websokets to deliver messages.
-5. [RESTful Task Manager](https://github.com/GitEagleY/RESTful-Go): Web server for managing tasks that implements RESTful API.
+## About Me
 
-### More Projects
+I’m 🤖 Optimus Prime 🤖, the leader of the Autobots and part-time generator of some random code. When I’m not busy debugging my life choices, I’m here crafting exquisite lines of code that may or may not solve actual problems.
 
-Explore more projects in my [repositories](https://github.com/GitEagleY?tab=repositories).
+## My Projects 🚀
+
+Here’s a [collection](https://yourwebsite.com) of my “masterpieces,” which, much like the Mona Lisa, only get more confusing the longer you look at them.
 
 
+
+### FLOPPY DISK:
+                                                                                                    
+                                                                                                    
+                    :-----........    ..............:.::::::::::: .:::::--:                         
+                   :*%%%%%%%%%%%%= ...........:.:::::::::::::::-##%%%%%%%%%#-                       
+                   :#%%%%%%%%%%%%=. ........:.:::::=%%%%%%%=:::-%%%%%%%%%%%%%*                      
+                   :#%%%%%%%%%%%%=..........:::::::=%%%%%%%=:::-#%%%%%%%%%%%%#                      
+                   :#%%%%%%%%%%%%=.......::.:::::::=%%%%%%%=:::-%%%%%%%%%%%%%*                      
+                   :#%%%%%%%%%%%%=.......:.::::::::=%%%%%%%=:::-%%%%%%%%%%%%%#                      
+                   :#%%%%%%%%%%%%=......:::::::::::=%%%%%%%=::--%%%%%%%%%%%%%*                      
+                   :#%%%%%%%%%%%%=....:.:::::::::::=%%%%%%%=-:--%%%%%%%%%%%%%#                      
+                   :#%%%%%%%%%%%%=...:.::::::::::::=%%%%%%%=:-:=#%%%%%%%%%%%%#                      
+                   :#%%%%%%%%%%%%=..:::::::::::::::+%%%%%%%+:--=%%%%%%%%%%%%%*                      
+                   :#%%%%%%%%%%%%+.:.::::::::::::::=*******=---=%%%%%%%%%%%%%#                      
+                   :#%%%%%%%%%%%%%%#%######################%#%%%%%%%%%%%%%%%%*                      
+                   :#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#                      
+                   :#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*                      
+                   :#%%%%%:                                           :#%%%%%#                      
+                   :#%%%%% .......................................... .#%%%%%*                      
+                   :#%%%%%                                            .#%%%%%#                      
+                   :#%%%%% .::::::::::::::::::::::::::::::::::::::::: .#%%%%%*                      
+                   :#%%%%%                                            .*%%%%%#                      
+                   :#%%%%%  . . . . . . . . . . . . . . . . . . . . . .#%%%%%*                      
+                   :#%%%%%                                            .#%%%%%#                      
+                   :#%%%%%                                            .#%%%%%*                      
+                   :#%%%%%                                            .#%%%%%#                      
+                   :#%%%%%                                            .#%%%%%*                      
+                   :#%%%%%                                            .#%%%%%#                      
+                   :#%%%%%                                            .*%%%%%*                      
+                   :#%%%%% .......................................... .#%%%%%#                      
+                   :#%%%%% :-.:::...::::.                             .#%%%%%#                      
+                   :#%%%%% .:.::::::::::::        ................... .#%%%%%*                      
+                   :#@@@%%%********************************************%*. :%#                      
+                   :#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%###%*                      
+                   :#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#                      
+                   .+#######################################################*:                      
+                                                                                                    
+                                                                                                    
 ## Support
 
 - 💬 Feedback and suggestions are welcome.
