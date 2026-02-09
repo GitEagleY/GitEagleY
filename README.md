@@ -1,9 +1,9 @@
 # Hello!
-In a nutshell, I am a developer who loves to tackle interesting projects.
-- 🌍 I'm based in **Ukraine**
-- 🔭 I’m currently working on **Python & React projects**
-- 🌱 I’m currently learning **Advanced Architecture Patterns**
-- 📫 How to reach me: [**linkedin**](https://linkedin.com) | [**google.com**](https://google.com)
+I am a developer who loves to tackle interesting projects.
+- I'm based in **Ukraine**
+- Currently working on **Python & React projects**
+- Learning **Advanced Architecture Patterns**
+- How to reach me: [**Linkedin**](https://linkedin.com) | [**Personal website**](https://google.com)
 
 ---
 
@@ -50,15 +50,8 @@ In a nutshell, I am a developer who loves to tackle interesting projects.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitEagleY&layout=compact&langs_count=10&theme=dracula" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=GitEagleY&show_icons=true&count_private=true&theme=dracula" alt="GitHub Stats" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitEagleY&theme=monokai" alt="Profile summary" />
 </div>
-
 
 ---
 
@@ -66,14 +59,12 @@ In a nutshell, I am a developer who loves to tackle interesting projects.
  
   **English** - Full professional proficiency  
   **German** - Elementary proficiency  
-  **Ukrainian** - Native or bilingual proficiency  
-  **Russian** - Native or bilingual proficiency  
+  **Ukrainian** - Native proficiency  
+  **Russian** - Native proficiency  
 
 ---
 
 <div align="center">
-
-### ⭐ If you like my work, consider giving me a star!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GitEagleY&color=0e75b6)
 
