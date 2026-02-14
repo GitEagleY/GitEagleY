@@ -3,7 +3,7 @@ I am a developer who loves to tackle interesting projects.
 - I'm based in **Ukraine**
 - Currently working on **Python & React projects**
 - Learning **Advanced Architecture Patterns**
-- How to reach me: [**Linkedin**](https://linkedin.com) | [**Personal website**](https://google.com)
+- How to reach me: [**Linkedin**]([https://linkedin.com](https://www.linkedin.com/in/oleksandr-ilchenko-4b9824323/)) | [**Personal website**](https://giteagley.github.io/)
 
 ---
 
